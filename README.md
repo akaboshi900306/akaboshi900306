@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gary Gao
 - 👀 I’m interested in sports, data and machine learning
-- 🌱 I’m currently learning Jenkins and Jira
+- 🌱 I’m currently learning Jenkins and Flask
 - 💞️ I’m looking to collaborate on opportunities in data science
 - 📫 How to reach me ... through 4047978846/akaboshi900306@gmail.com
 
